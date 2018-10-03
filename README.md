@@ -2,7 +2,7 @@
 
 Lib to help make programs in c
 
-How to use
+# How to use
 
 Include in your code 
 
